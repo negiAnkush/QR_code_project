@@ -1,0 +1,16 @@
+{
+  "name": "qr_code_genrator",
+  "version": "1.0.0",
+  "description": "This project is to demonstrate how we can genrate QR code for a given URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "console.log(\"QR project test run command\");"
+  },
+  "author": "Ankush Negi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  }
+}
